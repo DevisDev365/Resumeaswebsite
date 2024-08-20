@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Nook is a classic blogging theme offering a delightful canvas for your DIY projects, delicious recipes, and creative inspirations.
+Nook is a classic blogging theme offering a delightful canvas for your DIY projects.
 
 == Changelog ==
 
